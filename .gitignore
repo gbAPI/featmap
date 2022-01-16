@@ -54,7 +54,7 @@ _testmain.go
 /.env
 /webapp/build
 /bin
-/data
+
 
 .idea
 
