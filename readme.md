@@ -94,7 +94,7 @@ Just download the latest release and swap out the executable. Remember to backup
 Clone the repository
 
 ```bash
-git clone https://github.com/amborle/featmap.git
+git clone https://github.com/gbAPI/featmap.git
 ```
 
 Navigate to the repository.
